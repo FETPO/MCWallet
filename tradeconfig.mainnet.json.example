@@ -3,7 +3,7 @@
     "BTC": {
       "price": {
         "source": "API",
-        "api": "SWAPONLINE",
+        "api": "UNIINGO",
         "minSafePrice": 16000
       },
       "minAmount": 0.0005
@@ -11,13 +11,13 @@
     "USDT": {
       "price": {
         "source": "API",
-        "api": "SWAPONLINE"
+        "api": "UNIINGO"
       },
       "minAmount": 0.0005
     },
-    "SWAP": {
+    "UNII": {
       "ERC20": {
-        "address": "0x14a52cf6B4F68431bd5D9524E4fcD6F41ce4ADe9",
+        "address": "0x17C3f876922926c80221aeAEfE4f6e11d62Ccaf7",
         "decimals": "18"
       },
       "price": {
@@ -29,7 +29,7 @@
     "ETH": {
       "price": {
         "source": "API",
-        "api": "SWAPONLINE",
+        "api": "UNIINGO",
         "minSafePrice": 500
       },
       "minAmount": 0.0005
@@ -119,7 +119,7 @@
         }
       ]
     },
-    "SWAP-BTC": {
+    "UNII-BTC": {
       "active": true,
       "buy": false,
       "sell": true,
