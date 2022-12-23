@@ -1,12 +1,12 @@
 {
-  "name": "swaponline mcw ",
-  "description": "multicurrencty mm bot",
-  "repository": "https://github.com/swaponline/MultiCurrencyWallet/",
-  "logo": "https://swaponline.github.io/assets/favicon.ico",
+  "name": "MCWallet ",
+  "description": "MCWallet",
+  "repository": "https://github.com/FETPO/MCWallet/",
+  "logo": "https://github.com/FETPO/MCWallet/blob/bsc.swap.io/src/front/client/favicon.png",
   "keywords": ["wallet", "ethereum", "bitcoin", "crypto"],
   "env":{
     "SECRET_PHRASE": {
-      "description": "Your 12 words secret phrase (create new one on https://swaponline.io)",
+      "description": "Your 12 words secret phrase (create new one on https://bitsindex.com)",
       "required": true
     },
     "SPREAD": {
